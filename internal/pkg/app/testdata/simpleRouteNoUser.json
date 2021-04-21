@@ -1,7 +1,7 @@
 {
   "id" : "x107",
-  "orgId" : "comcast",
-  "appId" : "xfi",
+  "orgId" : "myorg",
+  "appId" : "myapp",
   "name" : "simpleRoute",
   "receiver" : {
     "plugin" : "debug",

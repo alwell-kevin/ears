@@ -1,7 +1,7 @@
 {
   "id" : "f102",
-  "orgId" : "comcast",
-  "appId" : "xfi",
+  "orgId" : "myorg",
+  "appId" : "myapp",
   "userId" : "boris",
   "name" : "simpleFilterLongChainRoute",
   "receiver" : {

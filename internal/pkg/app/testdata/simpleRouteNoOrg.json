@@ -1,6 +1,6 @@
 {
   "id" : "x104",
-  "appId" : "xfi",
+  "appId" : "myapp",
   "userId" : "boris",
   "name" : "simpleRoute",
   "receiver" : {

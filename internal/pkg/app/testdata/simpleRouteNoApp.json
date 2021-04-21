@@ -1,6 +1,6 @@
 {
   "id" : "x103",
-  "orgId" : "comcast",
+  "orgId" : "myorg",
   "userId" : "boris",
   "name" : "simpleRoute",
   "receiver" : {

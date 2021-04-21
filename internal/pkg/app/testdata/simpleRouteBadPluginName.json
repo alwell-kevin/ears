@@ -1,7 +1,7 @@
 {
   "id" : "x101",
-  "orgId" : "comcast",
-  "appId" : "xfi",
+  "orgId" : "myorg",
+  "appId" : "myapp",
   "userId" : "boris",
   "name" : "simpleRoute",
   "receiver" : {
